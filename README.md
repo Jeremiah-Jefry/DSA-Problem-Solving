@@ -5,8 +5,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
