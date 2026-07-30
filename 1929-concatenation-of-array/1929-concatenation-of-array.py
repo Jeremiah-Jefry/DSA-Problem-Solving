@@ -1,6 +1,4 @@
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
-        ans = []
-        for i in range(len(nums)):
-            ans.append(nums[i])
-        return ans*2
+        ans=nums*2
+        return ans
