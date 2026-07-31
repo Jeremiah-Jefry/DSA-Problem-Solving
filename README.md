@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1920-build-array-from-permutation/) | Easy |
