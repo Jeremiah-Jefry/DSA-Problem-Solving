@@ -10,6 +10,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1929-concatenation-of-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1929-concatenation-of-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
