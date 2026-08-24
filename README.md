@@ -34,4 +34,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jeremiah-Jefry/DSA-Problem-Solving/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| ------- | ------- |
 <!---LeetCode Topics End-->
